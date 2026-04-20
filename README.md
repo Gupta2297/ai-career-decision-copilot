@@ -67,7 +67,17 @@ Each response follows a structured format:
 1. Key Insight  
 2. Final Answer (usable immediately)  
 3. Structured Breakdown  
-4. Recommended Next Action  
+4. Recommended Next Action
+
+---
+
+## 🛠️ How I Built This
+
+- Designed a mode-based AI system using Claude Projects  
+- Implemented structured system instructions for consistent outputs  
+- Integrated user context (CV-based reasoning) for personalization  
+- Built a front-end Artifact UI for usability and demo purposes  
+- Iterated on output structure to prioritize actionable responses over generic answers  
 
 ---
 
@@ -82,7 +92,8 @@ Each response follows a structured format:
 
 ## 📸 Screenshots
 
-_Add screenshots here (home, interview mode, networking mode, etc.)_
+_Add screenshots here (<img width="893" height="817" alt="image" src="https://github.com/user-attachments/assets/88bf4451-3f5a-4f45-ab65-48d388abaf94" />
+)_
 
 ---
 
