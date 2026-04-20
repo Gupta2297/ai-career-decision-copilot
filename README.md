@@ -5,7 +5,7 @@ A multi-mode AI copilot designed to help with high-impact decisions including in
 ---
 
 ## 🚀 Live Demo
-👉 [Try the App]((https://claude.ai/public/artifacts/e4c32b2b-c5b1-4673-a19d-fb55f2e098ce))
+👉 [Try the App](https://claude.ai/public/artifacts/e4c32b2b-c5b1-4673-a19d-fb55f2e098ce)
 
 ---
 
